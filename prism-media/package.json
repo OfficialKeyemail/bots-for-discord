@@ -33,7 +33,7 @@
   "deprecated": false,
   "description": "Makes transcoding media easier",
   "devDependencies": {
-    "eslint": "^3.12.2"
+    "eslint": "^6.7.2"
   },
   "homepage": "https://github.com/hydrabolt/prism-media#readme",
   "keywords": [
